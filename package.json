@@ -1,0 +1,23 @@
+{
+  "name": "dd-happiness",
+  "version": "1.0.0",
+  "description": "DD team happiness tracker",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamster666/dd-happiness.git"
+  },
+  "author": "Laura Hampson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamster666/dd-happiness/issues"
+  },
+  "homepage": "https://github.com/hamster666/dd-happiness#readme"
+}
